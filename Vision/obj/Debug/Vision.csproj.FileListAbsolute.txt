@@ -4,3 +4,9 @@
 /home/hikoboshi/RiderProjects/lab2/Vision/obj/Debug/Vision.csproj.CoreCompileInputs.cache
 /home/hikoboshi/RiderProjects/lab2/Vision/obj/Debug/Vision.exe
 /home/hikoboshi/RiderProjects/lab2/Vision/obj/Debug/Vision.pdb
+C:\Users\Calamity\RiderProjects\Vizioner\Vision\bin\Debug\Vision.exe
+C:\Users\Calamity\RiderProjects\Vizioner\Vision\bin\Debug\Vision.pdb
+C:\Users\Calamity\RiderProjects\Vizioner\Vision\obj\Debug\Vision.csprojAssemblyReference.cache
+C:\Users\Calamity\RiderProjects\Vizioner\Vision\obj\Debug\Vision.csproj.CoreCompileInputs.cache
+C:\Users\Calamity\RiderProjects\Vizioner\Vision\obj\Debug\Vision.exe
+C:\Users\Calamity\RiderProjects\Vizioner\Vision\obj\Debug\Vision.pdb
