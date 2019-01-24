@@ -1,0 +1,6 @@
+/home/hikoboshi/RiderProjects/lab2/Vision/bin/Debug/Vision.exe
+/home/hikoboshi/RiderProjects/lab2/Vision/bin/Debug/Vision.pdb
+/home/hikoboshi/RiderProjects/lab2/Vision/obj/Debug/Vision.csprojAssemblyReference.cache
+/home/hikoboshi/RiderProjects/lab2/Vision/obj/Debug/Vision.csproj.CoreCompileInputs.cache
+/home/hikoboshi/RiderProjects/lab2/Vision/obj/Debug/Vision.exe
+/home/hikoboshi/RiderProjects/lab2/Vision/obj/Debug/Vision.pdb
